@@ -40,11 +40,15 @@ Example:<br />
 
 UPD. In future versions of the project there will be a console command "pureAnim.debug()", which will allow you to find logical errors when writing instructions from the PureAnim library. Stay tuned!
 # Change logs
+v1.3:
+- Upgraded CSS-code generator;
+- Improved script perfomance a little.
+
 v1.2:
 - Removed external CSS\SCSS styles;
 - Added modifiers to control animation duration;
 - Updated error handler;
-- Improving script performance, code optimization and bug fixes.
+- Improved script performance, code optimization and bug fixes.
 
 v1.1:
 - Added self-initialization of the library when starting the project;
@@ -52,4 +56,4 @@ v1.1:
 - Optimized some instructions.
   
 v1.0:
-- Initialize files.
+- Initialized files.
